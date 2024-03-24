@@ -10,9 +10,9 @@ iOS IPA Decrypter for TrollStore\
 
 
 ## Setup
-1. Instalar iOS 14.0 frameworks para theos.
+1. Instalar iOS 14.5 frameworks para theos.
   1. [Descargar sdks desde el repositorio de GitHub](https://github.com/theos/sdks).
-   2. Copiar `iPhoneOS14.0.sdk` folder en `~/theos/sdks`.
+   2. Copiar `iPhoneOS14.5.sdk` folder en `~/theos/sdks`.
 2. Clonar mi repositorio de GitHub: `git clone https://github.com/QxAngel/QxDecrypt`.
 3. Abrir tu terminal y escribir: `cd QxDecrypt` o dirigete al path donde clonaste el repositorio.
 4. para compilar el tweak escribir: `make package`. 
