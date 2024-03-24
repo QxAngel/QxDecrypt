@@ -1,0 +1,8 @@
+Package: com.qxangel.qxdecrypt
+Name: QxDecrypt
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: @6ky_l
+Author: fiore
+Section: Utilities
