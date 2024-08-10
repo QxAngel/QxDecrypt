@@ -1,7 +1,7 @@
 TARGET := iphone:clang:latest:14.0
 INSTALL_TARGET_PROCESSES = QxDecrypt
 
-ARCHS = arm64 #arm64e
+ARCHS = arm64 arm64e
 
 GO_EASY_ON_ME = 1
 PACKAGE_FORMAT = ipa
